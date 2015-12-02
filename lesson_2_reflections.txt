@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git creates an invisible directory, .git, and (I presume) prepares to have files added to it.
+You need to do it so that you can eventually add, commit, check out files.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area helps to group one or more files so that you can commit only part of a directory to the repository at one time.  It helps to divide multiple files into logical groups.  Otherwise you'd have to do either individual file commits or the whole directory (or maybe have a long command line to list all files you want to commit at once)
