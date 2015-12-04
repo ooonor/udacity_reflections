@@ -10,3 +10,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 You can make a bunch of changes to code if you have a to-do list, but only the files associated with one logical change into the staging area at a time.
 (However, this won't work if one file's changes involve two logical changes).
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+This is a tough one for me because I'm so used to keeping everything I code in one branch, since I've never CM''d before.
+In one project, however, we had to write code for multiple operating systems, and had branching inside the code that maybe could
+be moved outside to git.  Instead of a bunch of if-the-else statements, we can just have each branch represent the code for one operating
+system.
+
