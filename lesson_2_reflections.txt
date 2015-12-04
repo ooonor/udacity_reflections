@@ -16,3 +16,5 @@ In one project, however, we had to write code for multiple operating systems, an
 be moved outside to git.  Instead of a bunch of if-the-else statements, we can just have each branch represent the code for one operating
 system.
 
+How do the diagrams help you visualize the branch structure?
+so much easier than having to look through list of commits.  Not having this would be like having to make a list of the 50 states by stating each state's boreders.
