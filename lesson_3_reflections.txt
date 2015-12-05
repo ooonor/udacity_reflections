@@ -1,0 +1,4 @@
+When would you want to create a remote repository rather than keeping all your work local?
+    Always, almost.  As long as it's not sensitive/classified, it is a way to have a backup for safety.
+    Also, if you are working on the same code with another person, it makes it easy to share and collaborate
+    Or simply if you work on two different computers at home, or need to borrow someone else's computer to work.
