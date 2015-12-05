@@ -2,3 +2,5 @@ When would you want to create a remote repository rather than keeping all your w
     Always, almost.  As long as it's not sensitive/classified, it is a way to have a backup for safety.
     Also, if you are working on the same code with another person, it makes it easy to share and collaborate
     Or simply if you work on two different computers at home, or need to borrow someone else's computer to work.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	Because you don't know what someone else might be committing.
