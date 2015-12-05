@@ -22,3 +22,7 @@ so much easier than having to look through list of commits.  Not having this wou
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
   All separate development in each branch is merged into one.
   It is easier to visualize each branch and which commits are in which branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	pros: saves lots of time if there are a lot of code changes to merge.  Based on pretty sound logic for merge, leaving only questionable changes for the developer.
+	cons: I guess it could make a mistake, but haven't seen one yet.  Does not force the programmer to really look at all the changes.
