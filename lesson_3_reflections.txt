@@ -10,3 +10,5 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state 
 of the remote stored locally?
 	It makes it easy to do a local comparison, decide when to merge, and to do the merge if needed.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I used to use beyond compare 2 with my co-worker.  It was not as powerful merging, and it was always difficult if there were more than two of us developing.  Google docs is how I collaborate on documents, and I think it is actually simpler for documents with a single file that many of us are working on.
